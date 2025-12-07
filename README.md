@@ -1,6 +1,6 @@
 # EX-8-Implement-a-SimpleLSTM-using-TensorFlow-Keras.
-## Name: NISHAL K
-## Register Number: 2305001021
+## Name: MOHAN M
+## Register Number: 2305001018
 ## AIM
 To implement a simple Long Short-Term Memory (LSTM) neural network model using TensorFlow-Keras for sequence prediction, and to understand the working of LSTM layers in handling time-dependent data.
 
